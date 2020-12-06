@@ -1,0 +1,28 @@
+.img-wrap {
+  position: relative;
+  display: inline-block;
+  font-size: 0;
+}
+
+.img-wrap .close {
+  position: absolute;
+  top: -14px;
+  right: -12px;
+  z-index: 100;
+  padding: 3px 2px 2px;
+  cursor: pointer;
+  opacity: 0.1;
+  text-align: center;
+}
+
+.img-wrap:hover .close {
+  opacity: 1;
+}
+
+.error {
+  color: mediumvioletred;
+}
+
+dropdown-custom {
+  overflow: auto;width:500px;
+}
