@@ -42,7 +42,7 @@
 
     function baseUrl() 
     {
-        return "https://radio.multikhabar.com";
+        return "http://eastafrica-radio.helloodelivery-admin.com/public";
     }
 
 
