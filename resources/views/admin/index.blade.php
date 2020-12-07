@@ -4,7 +4,7 @@
 <div class="dash">
     <div class="row my-5">
         <div class="col-md-4 col-sm-6 my-4">
-            <a href="{{ route('admin.country.index') }}">
+            <a href="{{ route('admin.language.index') }}">
                 <div class="sort-info">
                     <div class="icon shadow position-absolute">
                         <img alt='' src="{{ asset('/images/language.png') }}" style='width:15px;border-radius: 20px;'>
