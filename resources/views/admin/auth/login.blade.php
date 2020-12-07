@@ -73,7 +73,7 @@
 
 
             <div class="copyright text-center">
-              <a >© 2020 W3Coders. All Rights Reserved</a>
+              <a >© 2020 HAFMOB. All Rights Reserved</a>
             </div>
           </div>
         </div>
